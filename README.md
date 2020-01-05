@@ -46,7 +46,7 @@ let houses = [{
       element: "fire",
       notableCharacter: {
         charName: "Harry Potter",
-        imgSrc: "https://bigkidatheart.com/wp-content/uploads/2017/06/harry-potter-with-glasses-200x200.png",
+        imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTHG3u9_KZbJZdZYCjlRGbZ7qJx6TnuOMYc0psOnkV4WXpLabQA&s",
       }
     },
     ]
